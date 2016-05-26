@@ -5,7 +5,7 @@ You can know more about Sublime Text [here](https://www.sublimetext.com/).
 
 ## How it works
 
-[![title](https://raw.githubusercontent.com/sayhellotovanessa/CuteCake-Sublime-Theme-Color/master/cutecake_su.jpg.jpg)]
+![CuteCake](https://raw.githubusercontent.com/sayhellotovanessa/CuteCake-Sublime-Theme-Color/master/cutecake_su.jpg.jpg)
 
 After installing, your Sublime Text should look like this. Cute. I know.
 
@@ -14,7 +14,7 @@ After installing, your Sublime Text should look like this. Cute. I know.
 0. Download the CuteCake.tmTheme file here in this repo.
 1. Open your Sublime Text.
 2. Open your Package Folder in **Preferences> Browse Packages**
-[![title](http://i.stack.imgur.com/Q6jgG.png)]
+![Path](http://i.stack.imgur.com/Q6jgG.png)
 3. Copy the CuteCake.tmTheme file in the **Colorsublime-Themes** folder.
 4. Open your Sublime window again.
 5. Select the theme by going in **Preferences> Color Scheme> Colorsublime-Themes>** CuteCake.
